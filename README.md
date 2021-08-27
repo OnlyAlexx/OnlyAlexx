@@ -2,18 +2,18 @@
 
 ### Hola hola 👋
 
-<!--
+
 - Soy estudiante de Ingeneria en sistemas computacionales.
 - Soy apasionado por los videojuegos.
 - lvl 21 en este juego llamado vida.
 - Me encantas escuchar musica, ayuda a consentrame.
--->
+
 
 ### Puedes encontrarme en:
-<!--
+
 - [Facebook] (https://www.facebook.com/OnlyAlexxTM/)
 - [Instagram] (https://www.instagram.com/onlyalexxtm/?hl=es)
--->
+
 
 | Lunes                           | Martes                          | Miercoles                       | Jueves                          | Viernes                         |
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
