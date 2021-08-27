@@ -6,7 +6,7 @@
 - Soy estudiante de Ingeneria en sistemas computacionales.
 - Soy apasionado por los videojuegos.
 - lvl 21 en este juego llamado vida.
-- Me encantas escuchar musica, ayuda a consentrame.
+- Me encanta escuchar musica.
 
 
 ### Puedes encontrarme en:
