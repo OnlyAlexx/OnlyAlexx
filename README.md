@@ -11,8 +11,8 @@
 
 ### Puedes encontrarme en:
 
-- [Facebook] {https://www.facebook.com/OnlyAlexxTM/}
-- [Instagram] (https://www.instagram.com/onlyalexxtm/?hl=es)
+- [Facebook](https://www.facebook.com/OnlyAlexxTM/)
+- [Instagram](https://www.instagram.com/onlyalexxtm/?hl=es)
 
 
 | Lunes                           | Martes                          | Miercoles                       | Jueves                          | Viernes                         |
